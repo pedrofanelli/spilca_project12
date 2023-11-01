@@ -9,7 +9,7 @@ public class Country {
 	private int population;
 	 
 	  
-    public static Country of(
+    public static Country of(    // STATIC FACTORY METHOD
     		String name, 
     		int population) {
     	
